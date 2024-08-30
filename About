@@ -1,0 +1,11 @@
+Through This website you can add your blog ,your experiences with another users.
+This website uses reactJs,NodeJs, express,mongodb to run and store data of the user.
+Function Of the site are:
+1. Upload your Posts
+2. Edit your Posts
+3. Can see another user Posts but cannot edit
+4. Edit function is only availabe for the respective account user
+5.Login/Logout
+6.Can upload photoes ,summary, tittles about your posts.
+
+
